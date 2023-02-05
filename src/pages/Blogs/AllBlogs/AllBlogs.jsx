@@ -1,6 +1,9 @@
 import React from "react";
+import AllBLogsCard from "./AllBlogsCard";
 const AllBlogs = () => {
-  return <></>;
+  return <>
+  <AllBLogsCard />
+  </>;
 };
 
 export default AllBlogs;
